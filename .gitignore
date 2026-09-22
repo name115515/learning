@@ -19,6 +19,8 @@ out/
 *.pdb
 *.ilk
 
+*.out
+
 # CMake generated files
 CMakeCache.txt
 CMakeFiles/
